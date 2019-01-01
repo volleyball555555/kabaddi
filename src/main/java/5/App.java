@@ -1,5 +1,3 @@
-package 5;
-
 /**
  * Hello world!
  *
